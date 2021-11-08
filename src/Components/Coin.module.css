@@ -1,0 +1,44 @@
+.coinItems {
+    border-bottom: 1px solid #999;
+    display: flex;
+    padding: 25px 80px;
+    line-height: 50px;
+    justify-content: space-between;
+}
+
+
+.coinItems img {
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.name {
+    font-weight: bolder;
+    font-size: 18px;
+}
+.name , .symbol , .price , .priceChange , .marketCap{
+    position: absolute;
+    margin-left: 850px;
+}
+.name{
+    margin-left: 80px;
+}
+.symbol{
+    margin-left: 315px;
+}
+.price{
+    margin-left: 540px;
+}
+.priceChange{
+    margin-left: 700px;
+    font-weight: bold;
+}
+
+
+/* Colors for Price Change */
+.greenSet{
+    color: rgb(14, 168, 14);
+}.redSet{
+    color: rgb(214, 28, 28);
+}

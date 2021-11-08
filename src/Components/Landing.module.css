@@ -1,0 +1,22 @@
+#allCoins {
+    border: 1px solid #999;
+    margin: auto;
+    width: 1140px;
+    border-radius: 25px;
+}
+#allCoins div :last-child{
+    border: none !important;
+}
+.input{
+    width: 600px;
+    margin: 200px auto 50px;
+    display: block;
+    padding: 12px 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: #999 solid 1px;
+
+}
+.input:focus{
+    outline: none;
+}
