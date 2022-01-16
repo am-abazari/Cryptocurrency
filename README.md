@@ -3,7 +3,7 @@
 Building a React cryptocurrency app. Powered by the CoinGecko API.
 
 
-<img width="800" alt="React Messenger Screenshot" src="https://media.discordapp.net/attachments/762383336994766938/907384315527184424/Screenshot_147.png?width=1345&height=779"/>
+<img width="800" alt="IMG" src="./img.png"/>
 
 Simple and optimized React Cryptocurrency [( See Demo )](https://amcrypto.netlify.app/) . It includes: 
 
