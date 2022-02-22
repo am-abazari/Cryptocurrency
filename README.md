@@ -39,4 +39,4 @@ The coverage report consists of an HTML reporter, which can be viewed in the bro
 
 ## About Author
 
-<strong>Amirhossein Abazari</strong> Front-End Web Developer
+<strong>Amirhossein Abazari</strong> Full-Stack Web Developer
