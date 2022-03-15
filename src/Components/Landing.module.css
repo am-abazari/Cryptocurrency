@@ -8,6 +8,7 @@
     border: none !important;
 }
 .input{
+    color: #999;
     width: 600px;
     margin: 200px auto 50px;
     display: block;
@@ -15,6 +16,7 @@
     font-size: 18px;
     border-radius: 10px;
     border: #999 solid 1px;
+    background-color: transparent;
 
 }
 .input:focus{

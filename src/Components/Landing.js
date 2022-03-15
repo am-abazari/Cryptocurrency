@@ -33,7 +33,7 @@ const Landing = () => {
 
     return (
         <>
-            <input type="text" placeholder="Seacrh ..." onChange={searcHandeler} value={search} className={styles.input} />
+            <input type="text" placeholder="Seacrh for a Coin ..." onChange={searcHandeler} value={search} className={styles.input} />
             {
                 coins.length ?
                     <section id={styles.allCoins}>
